@@ -1,0 +1,9 @@
+import math
+x1 = float (input ("Введите x1:"))
+y1 = float (input (Введите у1:))
+x2 = float (input ("Введите ×2:"))
+y2 - float (input (Введите y2:*))
+a = (x1 - x2) ** 2
+b = (y1 - y2) ** 2
+c = math.sqrt(a + b)
+print (c)
