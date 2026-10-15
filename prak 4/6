@@ -1,0 +1,6 @@
+import math
+a = int(input())
+b = math.radians(a)
+r = b * 3,14 / 180
+c = math.sin(a) + math.cos(a) + math.tan(a) ** 2
+print(c)
